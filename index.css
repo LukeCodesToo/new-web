@@ -10,8 +10,20 @@ body{
 	}
 	header h1{
 		color: black;
-		
+		font-size: 50px;
 	}
 	header img{
 		border-radius: 
 	}
+main{
+	max-width: 8000px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+main img{
+	max-width: 100%
+}
+h2{
+	font-size: 30px;
+	color: #0000FF;
+
