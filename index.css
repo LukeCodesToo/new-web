@@ -18,12 +18,18 @@ body{
 main{
 	max-width: 8000px;
 	margin: 0 auto;
-	padding: 0 20px;
+	padding: 10 20px;
 }
 main img{
 	max-width: 100%
 }
 h2{
-	font-size: 30px;
+	font-size: 26px;
 	color: #0000FF;
-
+}
+footer{
+	background-color: #F0FFFF;
+	text-align: center;
+	color:#0000FF;
+	padding:px;
+}
