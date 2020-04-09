@@ -1,11 +1,17 @@
 body{
 		margin: 0;
-
+		font-family: Arial
 	}
 	header{
 		background-color: #F0FFFF;
-		text-alight: center;
+		text-align:center;
+		font-family: 'Comic Neue', cursive;
+
 	}
 	header h1{
-		color:;
+		color: black;
+		
+	}
+	header img{
+		border-radius: 
 	}
